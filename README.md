@@ -1,4 +1,4 @@
-# Hi, I'm **Ezekiel Gonzales**
+# Hi, I'm **Ezekiel**
 
 | Developer | Linux Enthusiast | 
 
