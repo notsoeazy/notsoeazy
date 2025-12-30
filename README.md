@@ -1,24 +1,23 @@
 # Hi, I'm **Ezekiel** 👋
-> Developer | Linux Enthusiast
+> Aspiring Developer | Linux Enthusiast
 
-```console
+```text
 > whoami
 ┌─────────────────────── Development ──────────────────────┐
    notsoeazy@GitHub
-  │ ├󰙨 Core      JavaScript, Ruby on Rails, C++
-  │ ├󰍛 UI/UX     Bootstrap, Tailwind, Qt, QML
-  │ ├󰆧 Scripting  Bash
+  │ ├󰙨 Core      C++ • Ruby on Rails • JavaScript • HTML/CSS
+  │ ├󰍛 UI/UX     Bootstrap • Tailwind • Qt • QML
+  │ ├󰍛 Design    Figma • Canva
   └ └󰍛 Tooling   Git, Docker, GitHub
 └──────────────────────────────────────────────────────────┘
 
 ┌─────────────────────── Environment ──────────────────────┐
-   OS           CachyOS (Arch Linux)
-  │ ├ Kernel      Linux-CachyOS
-  │ ├ Shell       Zsh
-  │ ├ Status      Building clean & functional interfaces
+   OS             CachyOS x86_64
+  │ ├ Kernel      Linux 6.17.9-2-cachyos
+  │ ├ Shell       zsh 5.9
+  │ ├ WM          Hyprland 0.52.2 (Wayland)
   └ └ Activity    Improving, one commit at a time
 └──────────────────────────────────────────────────────────┘
-                 ⚪  🔴  🟢  🟡  🔵  🟣  ⚪
 ```
 
 ## Connect with Me
