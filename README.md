@@ -1,4 +1,4 @@
 # Hi, I'm **Ezekiel** 👋
-> Aspiring Developer | Linux User | Open Source Enthusiast
+> Aspiring Developer
 
 I'm still learning 💻️📚️ ...
